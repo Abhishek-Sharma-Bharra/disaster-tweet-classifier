@@ -27,5 +27,5 @@ An end-to-end Machine Learning web application designed to classify whether a gi
 
 1. **Clone the repository:**
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   cd <REPOSITORY_NAME>
+   git clone <https://github.com/Abhishek-Sharma-Bharra/disaster-tweet-classifier>
+   cd <disaster-tweet-classifier>
